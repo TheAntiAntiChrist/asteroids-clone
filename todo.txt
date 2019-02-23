@@ -1,0 +1,13 @@
+-powerups:
+	-automatic laser firing and then fire-rate upgrades
+	-laser penetration (going through multiple asteroids before destroying the laser)
+	-temporary shield to prevent dying from an asteroid collision
+	-permanent health powerups that give you more health (more collisions before death) - regenerate over time
+	-slow-mo (asteroids are slowed down)
+-powerups will spawn rarely with their spawn-rate increasing as time goes on:
+	relative rarity is measured from 1-5 with 1 being the rarest:
+		-laser firing speed upgrades are a 3
+		-laser penetration is a 2
+		-temp shield is a 4
+		-slow mo is a 1
+		-perma health is a 5
